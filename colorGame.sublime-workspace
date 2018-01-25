@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"mess",
+				"messageDisplay"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"ban",
+				"background-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"rese",
+				"resetButton"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"p",
+				"pickedColor"
+			],
+			[
+				"pic",
+				"pickColor"
+			],
+			[
+				"pick",
+				"pickedColor"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"random",
+				"randomcolor"
+			],
+			[
+				"col",
+				"colors"
+			],
+			[
+				"cha",
+				"changecolor"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"co",
+				"colors"
+			],
+			[
+				"c",
+				"textContent"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"cu",
+				"current-1"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"r",
+				"roundscore"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"b",
+				"border-box"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 55.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Toshitha/Desktop/All Docs/NLP/Assignment 3/v2/PCFG/PCFG/S1.gr",
+		"/C/Users/Toshitha/Desktop/All Docs/NLP/Assignment 3/v2/PCFG/PCFG/Vocab.gr",
+		"/C/Users/Toshitha/Desktop/All Docs/NLP/Assignment 3/v2/PCFG/PCFG/S2.gr",
+		"/C/Users/Toshitha/Desktop/All Docs/NLP/Assignment 3/PCFG - Copy/PCFG/S1.gr",
+		"/C/Users/Toshitha/Desktop/All Docs/NLP/Assignment 3/v2/PCFG/PCFG/a.gr",
+		"/C/Users/Toshitha/Desktop/style.css",
+		"/C/Users/Toshitha/Desktop/index.html",
+		"/C/Users/Toshitha/Desktop/Mywebsite/indexx.html",
+		"/C/Users/Toshitha/Desktop/colorgame.js",
+		"/C/Users/Toshitha/Desktop/Mywebsite/css/print.css",
+		"/C/Users/Toshitha/Desktop/Mywebsite/css/screen.css",
+		"/C/Users/Toshitha/Desktop/colorgame1.js",
+		"/C/Users/Toshitha/Desktop/JQuery UI/file1.txt",
+		"/C/Users/Toshitha/Desktop/app.js",
+		"/C/Users/Toshitha/Desktop/index1.html",
+		"/I/Mywebsite/index.html",
+		"/C/Users/Toshitha/Desktop/dice.js",
+		"/C/Users/Toshitha/Desktop/Bootstrap/js/jquery.min.js",
+		"/C/Users/Toshitha/Desktop/boostrap.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"have",
+			"at",
+			"are",
+			"sixty",
+			"to",
+			"the",
+			"to",
+			"carried",
+			"was",
+			"nbar",
+			"a",
+			"is",
+			"THE",
+			"is"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "colorGame.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
